@@ -402,3 +402,18 @@ FodyWeavers.xsd
 node_modules/
 .next/
 **/node_modules/
+# Node modules
+node_modules/
+**/node_modules/
+
+# Build directories
+dist/
+build/
+.next/
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
