@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../../src/types/base/autosuggestion-state.ts"],"sourcesContent":["import { BasePoint } from \"slate\";\n\nexport interface AutosuggestionState {\n  text: string;\n  point: BasePoint;\n}\n"],"mappings":";;;;;;;;;;;;;;;;AAAA;AAAA;","names":[]}

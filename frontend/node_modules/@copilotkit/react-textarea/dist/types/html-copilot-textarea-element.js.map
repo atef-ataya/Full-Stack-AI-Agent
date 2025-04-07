@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../src/types/html-copilot-textarea-element.ts"],"sourcesContent":["export interface HTMLCopilotTextAreaElement extends HTMLElement {\n  value: string;\n  focus: () => void;\n  blur: () => void;\n}\n"],"mappings":";;;;;;;;;;;;;;;;AAAA;AAAA;","names":[]}
