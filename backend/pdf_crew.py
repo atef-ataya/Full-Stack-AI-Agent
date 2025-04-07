@@ -37,7 +37,7 @@ def run_pdf_assistant(question: str) -> str:
         llm = LLM(
             model="gpt-4o",  
             temperature=0.0,
-            api_key=os.getenv("OPENAI_API_KEY") 
+            api_key=os.getenv("OPENAI_API_KEY") )
 
         pdf_agent = Agent(
             role="PDF Assistant",
