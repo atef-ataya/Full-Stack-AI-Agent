@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "anthropic": "^0.0.0",
+    "crewai": "^1.0.1",
+    "litellm": "^0.12.0"
+  }
+}

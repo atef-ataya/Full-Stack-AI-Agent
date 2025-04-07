@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../src/types/autosuggestions-config/subtypes/make-system-prompt.ts"],"sourcesContent":["export type MakeSystemPrompt = (textareaPurpose: string, contextString: string) => string;\n"],"mappings":";;;;;;;;;;;;;;;;AAAA;AAAA;","names":[]}
